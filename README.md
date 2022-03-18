@@ -1,10 +1,27 @@
-Hello!
+## Welcome  👋
 
-I joined the team [@bn-digital](https://github.com/bn-digital)
+### I joined the team [@bn-digital](https://github.com/bn-digital)
 
-y speciality DevOps Engineer
+BN Digital is a design-driven studio passionate about solving problems. We help startups and smart companies to provide top-notch experiences in the digital world. We are designers and engineers who make others' lives happier. We excel in fintech, healthcare, and real estate industries, working with such companies as Microsoft, Snap Inc., Cambridge University, etc.
 
-My responsibilities :
+### bn's services
+
+* **[Digital Products Development](https://bndigital.co/services/solution/digital-products-development)**  
+  We design, develop, and implement engaging digital products and experiences that people would love to use.
+* **[Enterprise Solutions Development](https://bndigital.co/services/solution/enterprise-solutions-development)**  
+  We build highly specialized platforms and systems that boost productivity with exceptional user experience.
+* **[Design Systems Implementation](https://bndigital.co/services/solution/design-systems-implementation)**  
+  We create and build a set of principles, rules, and reusable components that allow managing design at scale.
+* **[Mobile Applications Creation](https://bndigital.co/services/solution/mobile-applications)**  
+  We design, develop, and ship exciting mobile applications for iOS and Android platforms.
+* **[Tailor-made Corporate Websites Creation](https://bndigital.co/services/solution/tailor-made-websites)**  
+  We design, develop, and deliver eye-catching websites that engage customers and stand out from the crowd.
+* **[Investor Packages](https://bndigital.co/services/solution/investor-packages)**  
+  We create presentations and interactive prototypes to convey and pitch the idea, get attention, and raise funds.
+
+### My position DevOps Engineer  👷
+
+###My responsibilities:
 
 * __Operate and maintain dev, stage, and production environments both in house and for our customers;__
 * __Troubleshoot local dev environments__;
@@ -12,19 +29,39 @@ My responsibilities :
 * __Maintain the existing release process under CTO supervision__;
 * __Maintain monitoring, log, and error reporting systems.__
 
-I am studying in the areas: 
+###I am studying in the areas:
 
-__Skaffold,Kubernetes,Docker,Minikube,DevOps.__
+* __Skaffold__ 
+* __Kubernetes__
+* __Docker__
+* __Minikube__
+* __DevOps__
 
-My tech stack and toolbox
+### technology stack and expertise
 
-Security & Monitoring 
-<img src="https://camo.githubusercontent.com/73da961df6793c9a7b551af6405551e44e5c176bf55893ed917aebed2e2b8c3e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53656e7472792d4572726f725f547261636b65722d696e666f726d6174696f6e616c3f7374796c653d666c61742d737175617265266c6f676f3d73656e747279266c6f676f436f6c6f723d776869746526636f6c6f723d326262633861"> <img src="https://camo.githubusercontent.com/7de29a56bc6ecf8be4c7a671e953f54a1e09ad49775e92ff22e598601f7fdab1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f536f6e6172517562652d5175616c6974795f547261636b65722d696e666f726d6174696f6e616c3f7374796c653d666c61742d737175617265266c6f676f3d736f6e617271756265266c6f676f436f6c6f723d776869746526636f6c6f723d326262633861"> <img src="https://camo.githubusercontent.com/0cb57c79eff587133462859518537dd488d7b2373803a9bde86e06dd5214d888/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5661756c742d536563726574735f53746f726167652d696e666f726d6174696f6e616c3f7374796c653d666c61742d737175617265266c6f676f3d7661756c74266c6f676f436f6c6f723d776869746526636f6c6f723d326262633861">
-
-DevOps
-<img src="https://camo.githubusercontent.com/c39efdf14937817b8c0a415cf5be2b728f5aad872aea831636949172654a1699/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769746875622d5265706f7369746f72792d696e666f726d6174696f6e616c3f7374796c653d666c61742d737175617265266c6f676f3d676974687562266c6f676f436f6c6f723d776869746526636f6c6f723d326262633861"> <img src="https://camo.githubusercontent.com/cc46af9d1cbe53046b52327b783943ad1e02d986c364f20c2652b35edbc9cd77/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769746875625f416374696f6e732d434925374343442d696e666f726d6174696f6e616c3f7374796c653d666c61742d737175617265266c6f676f3d676974687562616374696f6e73266c6f676f436f6c6f723d776869746526636f6c6f723d326262633861"> <img src="https://camo.githubusercontent.com/e879b4e563059414e27529828a78e43428e5212ec09e9715e4ffb750f60e730e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769746c61622d5265706f7369746f72792d696e666f726d6174696f6e616c3f7374796c653d666c61742d737175617265266c6f676f436f6c6f723d776869746526636f6c6f723d326262633861"> <img src="https://camo.githubusercontent.com/7aede870a12af537dc2b0c236f46cb55c6e0f88d1ebbf2128254620044c3b838/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769746c61625f43492d434925374343442d696e666f726d6174696f6e616c3f7374796c653d666c61742d737175617265266c6f676f436f6c6f723d776869746526636f6c6f723d326262633861"> <img src="https://camo.githubusercontent.com/ef65778489e4aa682a24a4f6e376c5db08f9fc8124b62462db9200658a72b575/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5465727261666f726d2d496161432d696e666f726d6174696f6e616c3f7374796c653d666c61742d737175617265266c6f676f3d7465727261666f726d266c6f676f436f6c6f723d776869746526636f6c6f723d326262633861"> <img src="https://camo.githubusercontent.com/9238d0e1582b9c4089e13d9371aa62c43578689a5ae2673c2e00cc803396e914/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f636b65722d436f6e7461696e657269736174696f6e2d696e666f726d6174696f6e616c3f7374796c653d666c61742d737175617265266c6f676f3d646f636b6572266c6f676f436f6c6f723d776869746526636f6c6f723d326262633861"> <img src="https://camo.githubusercontent.com/e369036e8ec708942ff68826e40eba1bac64048eb2c4685de26ee14df888d345/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4b756265726e657465732d4f726368657374726174696f6e2d696e666f726d6174696f6e616c3f7374796c653d666c61742d737175617265266c6f676f3d6b756265726e65746573266c6f676f436f6c6f723d776869746526636f6c6f723d326262633861">
+We always hand-pick a tech stack according to business needs, goals, and existing processes.
+We believe that the most value is brought by modern yet reliable tools, automation of development processes, and high user experience standards.
 
 
- __Cloud Providers__
 
-<img src="https://camo.githubusercontent.com/b24b59b70b4a11adcf4a6358c9779c72ca7da6c2ccba1703673ed92e2524549d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4469676974616c5f4f6365616e2d436c6f75642d696e666f726d6174696f6e616c3f7374796c653d666c61742d737175617265266c6f676f3d6469676974616c6f6365616e266c6f676f436f6c6f723d776869746526636f6c6f723d326262633861"> <img src="https://camo.githubusercontent.com/69b27b9d485e9c98854a2daf14b2238701bb5e9bdf9578f76bcf702b23c44d1d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4157532d436c6f75642d696e666f726d6174696f6e616c3f7374796c653d666c61742d737175617265266c6f676f3d616d617a6f6e617773266c6f676f436f6c6f723d776869746526636f6c6f723d326262633861"> <img src="https://camo.githubusercontent.com/896d7f8ae5e02ed810b25178a81fc129d088c320f4f4f6a0680999d6759f2bdc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f417a7572652d436c6f75642d696e666f726d6174696f6e616c3f7374796c653d666c61742d737175617265266c6f676f3d6d6963726f736f6674617a757265266c6f676f436f6c6f723d776869746526636f6c6f723d326262633861">
+#### Security & Monitoring
+![](https://img.shields.io/badge/Sentry-Error_Tracker-informational?style=flat-square&logo=sentry&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/SonarQube-Quality_Tracker-informational?style=flat-square&logo=sonarqube&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Vault-Secrets_Storage-informational?style=flat-square&logo=vault&logoColor=white&color=2bbc8a)
+
+#### DevOps
+![](https://img.shields.io/badge/Github-Repository-informational?style=flat-square&logo=github&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Github_Actions-CI|CD-informational?style=flat-square&logo=githubactions&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Gitlab-Repository-informational?style=flat-square&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Gitlab_CI-CI|CD-informational?style=flat-square&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/Terraform-IaaC-informational?style=flat-square&logo=terraform&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Docker-Containerisation-informational?style=flat-square&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Kubernetes-Orchestration-informational?style=flat-square&logo=kubernetes&logoColor=white&color=2bbc8a)
+
+#### Cloud Providers
+![](https://img.shields.io/badge/Digital_Ocean-Cloud-informational?style=flat-square&logo=digitalocean&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/AWS-Cloud-informational?style=flat-square&logo=amazonaws&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Azure-Cloud-informational?style=flat-square&logo=microsoftazure&logoColor=white&color=2bbc8a)
+
+
