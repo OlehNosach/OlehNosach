@@ -21,7 +21,7 @@ BN Digital is a design-driven studio passionate about solving problems. We help 
 
 ### My position DevOps Engineer  👷
 
-###My responsibilities:
+### My responsibilities:
 
 * __Operate and maintain dev, stage, and production environments both in house and for our customers;__
 * __Troubleshoot local dev environments__;
@@ -29,7 +29,7 @@ BN Digital is a design-driven studio passionate about solving problems. We help 
 * __Maintain the existing release process under CTO supervision__;
 * __Maintain monitoring, log, and error reporting systems.__
 
-###I am studying in the areas:
+### I am studying in the areas:
 
 * __Skaffold__ 
 * __Kubernetes__
